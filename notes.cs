@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n MiniMaxSum
-    → dotnet sln add MiniMaxSum
+    → dotnet new console -n Diamond
+    → dotnet sln add Diamond
     → dotnet build
 */
 
@@ -46,9 +46,11 @@
     4-) ✅ A Very Big Sum
     5-) ✅ Diagonal Difference
     6-) ✅ Plus Minus
-    7-) ✅ Staircase
+    7-) ✅ Staircase, HollowSquare, HollowRectangle, RightAngledTriangles, Diamond
     8-) Mini-max-sum
     9-) 
     10-) 
     11-) 
+
+    * https://www.codevscolor.com/pages/c-sharp-tutorials
 */

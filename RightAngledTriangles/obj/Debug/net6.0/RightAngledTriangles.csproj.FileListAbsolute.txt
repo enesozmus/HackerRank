@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\bin\Debug\net6.0\RightAngledTriangles.exe
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\bin\Debug\net6.0\RightAngledTriangles.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\bin\Debug\net6.0\RightAngledTriangles.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\bin\Debug\net6.0\RightAngledTriangles.dll
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\bin\Debug\net6.0\RightAngledTriangles.pdb
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.dll
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\refint\RightAngledTriangles.dll
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.pdb
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\RightAngledTriangles.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\RightAngledTriangles\obj\Debug\net6.0\ref\RightAngledTriangles.dll

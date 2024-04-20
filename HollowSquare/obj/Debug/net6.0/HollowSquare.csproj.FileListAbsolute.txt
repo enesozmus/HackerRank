@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\bin\Debug\net6.0\HollowSquare.exe
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\bin\Debug\net6.0\HollowSquare.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\bin\Debug\net6.0\HollowSquare.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\bin\Debug\net6.0\HollowSquare.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\bin\Debug\net6.0\HollowSquare.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\refint\HollowSquare.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\HollowSquare.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowSquare\obj\Debug\net6.0\ref\HollowSquare.dll

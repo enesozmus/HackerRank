@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\bin\Debug\net6.0\HollowRectangle.exe
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\bin\Debug\net6.0\HollowRectangle.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\bin\Debug\net6.0\HollowRectangle.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\bin\Debug\net6.0\HollowRectangle.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\bin\Debug\net6.0\HollowRectangle.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\refint\HollowRectangle.dll
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\HollowRectangle.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\HollowRectangle\obj\Debug\net6.0\ref\HollowRectangle.dll

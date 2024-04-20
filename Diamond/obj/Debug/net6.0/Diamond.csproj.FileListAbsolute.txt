@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\bin\Debug\net6.0\Diamond.exe
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\bin\Debug\net6.0\Diamond.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\bin\Debug\net6.0\Diamond.dll
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\bin\Debug\net6.0\Diamond.pdb
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.dll
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.pdb
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\Diamond\obj\Debug\net6.0\ref\Diamond.dll
