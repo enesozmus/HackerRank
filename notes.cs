@@ -47,7 +47,7 @@
     5-) ✅ Diagonal Difference
     6-) ✅ Plus Minus
     7-) ✅ Staircase, HollowSquare, HollowRectangle, RightAngledTriangles, Diamond
-    8-) Mini-max-sum
+    8-) ✅ Mini-Max Sum
     9-) 
     10-) 
     11-) 
