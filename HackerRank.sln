@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightAngledTriangles", "Rig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{46422563-3F21-4C0C-84CE-1AA374BC674B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{01C2E6A4-69E5-48C1-A853-98E0F41BB5BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{46422563-3F21-4C0C-84CE-1AA374BC674B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46422563-3F21-4C0C-84CE-1AA374BC674B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46422563-3F21-4C0C-84CE-1AA374BC674B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C2E6A4-69E5-48C1-A853-98E0F41BB5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C2E6A4-69E5-48C1-A853-98E0F41BB5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C2E6A4-69E5-48C1-A853-98E0F41BB5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C2E6A4-69E5-48C1-A853-98E0F41BB5BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

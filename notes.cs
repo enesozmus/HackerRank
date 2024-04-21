@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n Diamond
-    → dotnet sln add Diamond
+    → dotnet new console -n BirthdayCakeCandles
+    → dotnet sln add BirthdayCakeCandles
     → dotnet build
 */
 
@@ -48,7 +48,7 @@
     6-) ✅ Plus Minus
     7-) ✅ Staircase, HollowSquare, HollowRectangle, RightAngledTriangles, Diamond
     8-) ✅ Mini-Max Sum
-    9-) 
+    9-) ✅ Birthday Cake Candles
     10-) 
     11-) 
 
