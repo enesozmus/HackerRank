@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n BirthdayCakeCandles
-    → dotnet sln add BirthdayCakeCandles
+    → dotnet new console -n TimeConversion
+    → dotnet sln add TimeConversion
     → dotnet build
 */
 
@@ -49,7 +49,7 @@
     7-) ✅ Staircase, HollowSquare, HollowRectangle, RightAngledTriangles, Diamond
     8-) ✅ Mini-Max Sum
     9-) ✅ Birthday Cake Candles
-    10-) 
+    10-) ✅ Time Conversion
     11-) 
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials

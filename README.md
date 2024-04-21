@@ -8,7 +8,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-CSharp-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-19/04/2024-brightgreen.svg">
 </p>
@@ -26,3 +26,4 @@
 |   | [Staircase](./Staircase)|C#|Easy|
 |   | [Mini-Max Sum](./MiniMaxSum)|C#|Easy|
 |   | [Birthday Cake Candles](./BirthdayCakeCandles)|C#|Easy|
+|   | [Time Conversion](./TimeConversion)|C#|Easy|

@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.exe
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.dll
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\bin\Debug\net6.0\BirthdayCakeCandles.pdb
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.dll
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\refint\BirthdayCakeCandles.dll
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.pdb
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\BirthdayCakeCandles.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\BirthdayCakeCandles\obj\Debug\net6.0\ref\BirthdayCakeCandles.dll
