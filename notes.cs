@@ -32,9 +32,11 @@
 */
 
 /*
-    → dotnet new console -n TimeConversion
-    → dotnet sln add TimeConversion
+    → dotnet new console -n SuperReducedString
+    → dotnet sln add SuperReducedString
     → dotnet build
+
+    * dotnet sln remove nTest
 */
 
 
@@ -50,7 +52,8 @@
     8-) ✅ Mini-Max Sum
     9-) ✅ Birthday Cake Candles
     10-) ✅ Time Conversion
-    11-) 
+
+    1-) ✅ Super Reduced String
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
