@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\bin\Debug\net6.0\CamelCase.exe
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\bin\Debug\net6.0\CamelCase.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\bin\Debug\net6.0\CamelCase.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\bin\Debug\net6.0\CamelCase.dll
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\bin\Debug\net6.0\CamelCase.pdb
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.dll
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\refint\CamelCase.dll
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.pdb
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\CamelCase.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\CamelCase\obj\Debug\net6.0\ref\CamelCase.dll

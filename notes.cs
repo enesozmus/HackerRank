@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n SuperReducedString
-    → dotnet sln add SuperReducedString
+    → dotnet new console -n CamelCase
+    → dotnet sln add CamelCase
     → dotnet build
 
     * dotnet sln remove nTest
@@ -54,6 +54,7 @@
     10-) ✅ Time Conversion
 
     1-) ✅ Super Reduced String
+    2-) ✅ Camel Case
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
