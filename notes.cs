@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n CamelCase
-    → dotnet sln add CamelCase
+    → dotnet new console -n StrongPassword
+    → dotnet sln add StrongPassword
     → dotnet build
 
     * dotnet sln remove nTest
@@ -55,6 +55,7 @@
 
     1-) ✅ Super Reduced String
     2-) ✅ Camel Case
+    3-) ✅ Strong Password
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
