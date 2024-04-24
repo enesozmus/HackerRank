@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n StrongPassword
-    → dotnet sln add StrongPassword
+    → dotnet new console -n CaesarCipher
+    → dotnet sln add CaesarCipher
     → dotnet build
 
     * dotnet sln remove nTest
@@ -56,6 +56,7 @@
     1-) ✅ Super Reduced String
     2-) ✅ Camel Case
     3-) ✅ Strong Password
+    4-) ✅ Caesar Cipher
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
