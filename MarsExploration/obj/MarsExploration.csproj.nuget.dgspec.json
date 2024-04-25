@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj": {}
+    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\MarsExploration\\MarsExploration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj": {
+    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\MarsExploration\\MarsExploration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
-        "projectName": "CaesarCipher",
-        "projectPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
+        "projectUniqueName": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\MarsExploration\\MarsExploration.csproj",
+        "projectName": "MarsExploration",
+        "projectPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\MarsExploration\\MarsExploration.csproj",
         "packagesPath": "C:\\Users\\ensoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\obj\\",
+        "outputPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\MarsExploration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ensoz\\AppData\\Roaming\\NuGet\\NuGet.Config"

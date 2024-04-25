@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n CaesarCipher
-    → dotnet sln add CaesarCipher
+    → dotnet new console -n MarsExploration
+    → dotnet sln add MarsExploration
     → dotnet build
 
     * dotnet sln remove nTest
@@ -57,6 +57,8 @@
     2-) ✅ Camel Case
     3-) ✅ Strong Password
     4-) ✅ Caesar Cipher
+    5-) ✅ Mars Exploration
+    
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */

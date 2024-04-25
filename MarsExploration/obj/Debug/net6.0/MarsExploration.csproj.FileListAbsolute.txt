@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\bin\Debug\net6.0\MarsExploration.exe
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\bin\Debug\net6.0\MarsExploration.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\bin\Debug\net6.0\MarsExploration.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\bin\Debug\net6.0\MarsExploration.dll
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\bin\Debug\net6.0\MarsExploration.pdb
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.dll
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\refint\MarsExploration.dll
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.pdb
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\MarsExploration.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\MarsExploration\obj\Debug\net6.0\ref\MarsExploration.dll
