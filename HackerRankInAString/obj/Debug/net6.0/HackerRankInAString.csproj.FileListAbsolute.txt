@@ -1,0 +1,15 @@
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\bin\Debug\net6.0\HackerRankInAString.exe
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\bin\Debug\net6.0\HackerRankInAString.deps.json
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\bin\Debug\net6.0\HackerRankInAString.runtimeconfig.json
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\bin\Debug\net6.0\HackerRankInAString.dll
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\bin\Debug\net6.0\HackerRankInAString.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.dll
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\refint\HackerRankInAString.dll
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.pdb
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\HackerRankInAString.genruntimeconfig.cache
+C:\Users\ensoz\3D Objects\HackerRank\HackerRankInAString\obj\Debug\net6.0\ref\HackerRankInAString.dll

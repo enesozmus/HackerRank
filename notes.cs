@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n MarsExploration
-    → dotnet sln add MarsExploration
+    → dotnet new console -n HackerRankInAString
+    → dotnet sln add HackerRankInAString
     → dotnet build
 
     * dotnet sln remove nTest
@@ -58,7 +58,7 @@
     3-) ✅ Strong Password
     4-) ✅ Caesar Cipher
     5-) ✅ Mars Exploration
-    
+    6-) ✅ HackerRank In A String
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */

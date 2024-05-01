@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCiphe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsExploration", "MarsExploration\MarsExploration.csproj", "{8EA0F75D-BB66-4F8F-B41B-841BAD25164A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankInAString", "HackerRankInAString\HackerRankInAString.csproj", "{5E728398-AF5D-4828-87F5-07CF3ACD104F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{8EA0F75D-BB66-4F8F-B41B-841BAD25164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA0F75D-BB66-4F8F-B41B-841BAD25164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA0F75D-BB66-4F8F-B41B-841BAD25164A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E728398-AF5D-4828-87F5-07CF3ACD104F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E728398-AF5D-4828-87F5-07CF3ACD104F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E728398-AF5D-4828-87F5-07CF3ACD104F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E728398-AF5D-4828-87F5-07CF3ACD104F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
