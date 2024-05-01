@@ -8,7 +8,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-17-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-CSharp-orange.svg">
 </p>
 <br/>
@@ -36,3 +36,4 @@
 |   | [Caesar Cipher](./CaesarCipher)|C#|Easy|
 |   | [Mars Exploration](./MarsExploration)|C#|Easy|
 |   | [HackerRank In A String](./HackerRankInAString)|C#|Easy|
+|   | [Pangrams](./Pangrams)|C#|Easy|

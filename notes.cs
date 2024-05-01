@@ -32,8 +32,8 @@
 */
 
 /*
-    → dotnet new console -n HackerRankInAString
-    → dotnet sln add HackerRankInAString
+    → dotnet new console -n Pangrams
+    → dotnet sln add Pangrams
     → dotnet build
 
     * dotnet sln remove nTest
@@ -59,6 +59,7 @@
     4-) ✅ Caesar Cipher
     5-) ✅ Mars Exploration
     6-) ✅ HackerRank In A String
+    7-) ✅ Pangrams
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
