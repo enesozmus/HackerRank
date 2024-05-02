@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj": {}
+    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj": {
+    "C:\\Users\\ensoz\\3D Objects\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
-        "projectName": "CaesarCipher",
-        "projectPath": "c:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
+        "projectUniqueName": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
+        "projectName": "WeightedUniformStrings",
+        "projectPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
         "packagesPath": "C:\\Users\\ensoz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ensoz\\3D Objects\\HackerRank\\CaesarCipher\\obj\\",
+        "outputPath": "C:\\Users\\ensoz\\3D Objects\\HackerRank\\WeightedUniformStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ensoz\\AppData\\Roaming\\NuGet\\NuGet.Config"

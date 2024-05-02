@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CaesarCipher
-build_property.ProjectDir = c:\Users\ensoz\3D Objects\HackerRank\CaesarCipher\
+build_property.RootNamespace = WeightedUniformStrings
+build_property.ProjectDir = C:\Users\ensoz\3D Objects\HackerRank\WeightedUniformStrings\

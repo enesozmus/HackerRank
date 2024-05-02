@@ -32,13 +32,12 @@
 */
 
 /*
-    → dotnet new console -n Pangrams
-    → dotnet sln add Pangrams
+    → dotnet new console -n WeightedUniformStrings
+    → dotnet sln add WeightedUniformStrings
     → dotnet build
 
     * dotnet sln remove nTest
 */
-
 
 /*
 
@@ -60,6 +59,7 @@
     5-) ✅ Mars Exploration
     6-) ✅ HackerRank In A String
     7-) ✅ Pangrams
+    8-) ✅ Weighted Uniform Strings
 
     * https://www.codevscolor.com/pages/c-sharp-tutorials
 */
